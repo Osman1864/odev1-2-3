@@ -18,7 +18,7 @@ a) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 11: 2,16,6,18,22,27\
 12: 2,6,16,18,22,27
 
-b) Big-O gösterimini yazınız.
+b) Big-O gösterimini yazınız. 
 
 >n adimli bir dizide (n*(n+1)/2) -> 0(n^2)
 
